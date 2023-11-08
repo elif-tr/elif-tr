@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Elif and I am a passtionate Data Scientist!
 <!--
 **elif-tr/elif-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
